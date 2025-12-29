@@ -11,7 +11,8 @@ It is designed to be cloned or used as a base template for new backend services 
 
 ---
 
- **🏗 Solution structure**
+ ##🏗 Solution structure
+ 
          `src/
          └─ Identity/
          ├─ Identity.Domain          → Domain entities (pure, framework-free)
