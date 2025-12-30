@@ -73,15 +73,15 @@ Open Swagger UI:
 
 Test registration endpoint: 📩 POST /api/Auth/register
 
-{
-"userName": "testuser",
-"email": "test@example.com",
-"phoneNumber" : "09121111111",
-"password": "P@ssw0rd123",
-"firstName": "Test",
-"lastName": "User",
-"Gender": "Test"
-}
+	{
+		"userName": "testuser",
+		"email": "test@example.com",
+		"phoneNumber" : "09121111111",
+		"password": "P@ssw0rd123",
+		"firstName": "Test",
+		"lastName": "User",
+		"Gender": "Test"
+	}
 
 ---
 
